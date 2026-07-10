@@ -1,0 +1,36 @@
+URL,Status Code,Working,Response Time (s),Remark
+https://in.linkedin.com/company/suryasangam,999,No,0.52,<none>
+https://paymentandrefund.suryasangam.com/,200,Yes,0.49,OK
+https://privacypolicy.suryasangam.com/,200,Yes,0.36,OK
+https://termsofcondition.suryasangam.com/,200,Yes,0.32,OK
+https://twitter.com/SuryaSangam_,200,Yes,1.12,OK
+https://vendorpolicy.suryasangam.com/,200,Yes,0.35,OK
+https://www.facebook.com/people/Surya-Sangam/61576365473631/,200,Yes,0.62,OK
+https://www.instagram.com/suryasangam_official,200,Yes,0.81,OK
+https://www.linkedin.com/company/suryasangam,999,No,0.47,<none>
+https://www.linkedin.com/posts/suryasangam_energyindependence-solarcontrol-suryasangam-activity-7371162427771723776-UYtr,200,Yes,1.31,OK
+https://www.suryasangam.com/,200,Yes,0.42,OK
+https://www.suryasangam.com/#surya-calculator,200,Yes,0.34,OK
+https://www.suryasangam.com/about,404,No,0.29,Page Not Found
+https://www.suryasangam.com/aboutus,200,Yes,0.32,OK
+https://www.suryasangam.com/blogs,200,Yes,0.3,OK
+https://www.suryasangam.com/blogs/indias-solar-boom-and-power-grid-challenges-building-a-clean-energy-future,200,Yes,0.3,OK
+https://www.suryasangam.com/blogs/net-metering-and-beyond-future-of-solar-rooftop-with-smart-grids-p2p-trading,200,Yes,0.33,OK
+https://www.suryasangam.com/blogs/solar-incentives-2026-india-top-8-subsidies-pm-surya-ghar-rooftop-solar-benefits,200,Yes,0.31,OK
+https://www.suryasangam.com/careers,200,Yes,0.34,OK
+https://www.suryasangam.com/commercial-solar,200,Yes,0.34,OK
+https://www.suryasangam.com/contactus,200,Yes,0.36,OK
+https://www.suryasangam.com/esg-ramp-awareness,200,Yes,0.33,OK
+https://www.suryasangam.com/help,200,Yes,0.31,OK
+https://www.suryasangam.com/news,200,Yes,0.31,OK
+https://www.suryasangam.com/news/government-led-solar-samvad-with-surya-sangam-upneda-district-administration-ghaziabad-nagar-nigam-loni,200,Yes,0.34,OK
+https://www.suryasangam.com/news/strengthening-pm-surya-ghar-muft-bijli-yojana-through-institutional-capacity-building,200,Yes,0.27,OK
+https://www.suryasangam.com/news/surya-sangam-conducts-3-day-solar-samvad-awareness-drive-across-15-villages-under-pm-surya-ghar-muft-bijli-yojana,200,Yes,0.27,OK
+https://www.suryasangam.com/productlistning,200,Yes,0.25,OK
+https://www.suryasangam.com/productlistning?page=1,200,Yes,0.29,OK
+https://www.suryasangam.com/smarthub,200,Yes,0.27,OK
+https://www.youtube.com/@SuryaSangamofficial,200,Yes,0.7,OK
+https://x.com/SuryaSangam_,200,Yes,0.83,OK
+https://x.com/SuryaSangam_/status/1963584217822236981,200,Yes,0.59,OK
+mailto:customer.support@suryasangam.com,Error,No,-,No connection adapters were found for 'mailto:customer.support@suryasangam.com'
+tel:+919303772737,Error,No,-,No connection adapters were found for 'tel:+919303772737'

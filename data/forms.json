@@ -1,0 +1,1098 @@
+[
+    {
+        "page_url": "https://in.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "organization_guest_google-one-tap-submit",
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://in.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "session_key",
+                "id": "employees-blurred-section-sign-in-modal_session_key",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "session_password",
+                "id": "employees-blurred-section-sign-in-modal_session_password",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "employees-blurred-section_sign-in-modal_sign-in-submit",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "controlId",
+                "id": null,
+                "placeholder": null,
+                "value": "d_org_guest_company_overview-employees-blurred-section_sign-in-modal_sign-in-submit-btn",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "pageInstance",
+                "id": null,
+                "placeholder": null,
+                "value": "urn:li:page:d_org_guest_company_overview_jsbeacon;NYJ6rcvYTT6N5LflpXLX8A==",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "button",
+                "text": "Show"
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Sign in"
+            }
+        ]
+    },
+    {
+        "page_url": "https://in.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "organization_guest_google-one-tap-submit",
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://in.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "session_key",
+                "id": "csm-v2_session_key",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "session_password",
+                "id": "csm-v2_session_password",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "csm-v2_sign-in-submit",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "controlId",
+                "id": null,
+                "placeholder": null,
+                "value": "d_org_guest_company_overview-csm-v2_sign-in-submit-btn",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "pageInstance",
+                "id": null,
+                "placeholder": null,
+                "value": "urn:li:page:d_org_guest_company_overview_jsbeacon;NYJ6rcvYTT6N5LflpXLX8A==",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "button",
+                "text": "Show"
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Sign in"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.facebook.com/people/Surya-Sangam/61576365473631/",
+        "action": "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1",
+        "method": "POST",
+        "id": "login_form",
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "email",
+                "name": "email",
+                "id": null,
+                "placeholder": "Email or phone",
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "pass",
+                "id": null,
+                "placeholder": "Password",
+                "value": null,
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "cuid",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "guid",
+                "id": null,
+                "placeholder": null,
+                "value": "faacb996c300e668c",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgnjs",
+                "id": null,
+                "placeholder": null,
+                "value": "1783076317",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgnrnd",
+                "id": null,
+                "placeholder": null,
+                "value": "035836_jZJF",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "locale",
+                "id": null,
+                "placeholder": null,
+                "value": "en_GB",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "login_source",
+                "id": null,
+                "placeholder": null,
+                "value": "comet_login_header",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "next",
+                "id": null,
+                "placeholder": null,
+                "value": "https://www.facebook.com/people/Surya-Sangam/61576365473631/",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "skstamp",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "timezone",
+                "id": null,
+                "placeholder": null,
+                "value": "-330",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "prefill_contact_point",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "prefill_source",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lsd",
+                "id": null,
+                "placeholder": null,
+                "value": "AdRORd4ZIAeyztFJDSw1JboUHL0",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "jazoest",
+                "id": null,
+                "placeholder": null,
+                "value": "22275",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgndim",
+                "id": null,
+                "placeholder": null,
+                "value": "eyJ3IjoxNTM2LCJoIjo4NjQsImF3IjoxNTM2LCJhaCI6ODE2LCJjIjozMn0=",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "ab_test_data",
+                "id": null,
+                "placeholder": null,
+                "value": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "submit",
+                "name": null,
+                "id": null,
+                "placeholder": null,
+                "value": null,
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.facebook.com/people/Surya-Sangam/61576365473631/",
+        "action": "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1",
+        "method": "POST",
+        "id": "login_popup_cta_form",
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "email",
+                "id": "_r_4_",
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "pass",
+                "id": "_r_8_",
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "cuid",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "guid",
+                "id": null,
+                "placeholder": null,
+                "value": "ff49915d4f27bc925",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgnjs",
+                "id": null,
+                "placeholder": null,
+                "value": "1783076317",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgnrnd",
+                "id": null,
+                "placeholder": null,
+                "value": "035836_jZJF",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "locale",
+                "id": null,
+                "placeholder": null,
+                "value": "en_GB",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "login_source",
+                "id": null,
+                "placeholder": null,
+                "value": "comet_login_header",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "next",
+                "id": null,
+                "placeholder": null,
+                "value": "https://www.facebook.com/people/Surya-Sangam/61576365473631/",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "skstamp",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "timezone",
+                "id": null,
+                "placeholder": null,
+                "value": "-330",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "prefill_contact_point",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "prefill_source",
+                "id": null,
+                "placeholder": null,
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lsd",
+                "id": null,
+                "placeholder": null,
+                "value": "AdRORd4ZIAeyztFJDSw1JboUHL0",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "jazoest",
+                "id": null,
+                "placeholder": null,
+                "value": "22275",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "lgndim",
+                "id": null,
+                "placeholder": null,
+                "value": "eyJ3IjoxNTM2LCJoIjo4NjQsImF3IjoxNTM2LCJhaCI6ODE2LCJjIjozMn0=",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "ab_test_data",
+                "id": null,
+                "placeholder": null,
+                "value": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "submit",
+                "name": null,
+                "id": null,
+                "placeholder": null,
+                "value": null,
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "organization_guest_google-one-tap-submit",
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "session_key",
+                "id": "employees-blurred-section-sign-in-modal_session_key",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "session_password",
+                "id": "employees-blurred-section-sign-in-modal_session_password",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "employees-blurred-section_sign-in-modal_sign-in-submit",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "controlId",
+                "id": null,
+                "placeholder": null,
+                "value": "d_org_guest_company_overview-employees-blurred-section_sign-in-modal_sign-in-submit-btn",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "pageInstance",
+                "id": null,
+                "placeholder": null,
+                "value": "urn:li:page:d_org_guest_company_overview_jsbeacon;aCS5mTOpTbiUi/zp2+RzLg==",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "button",
+                "text": "Show"
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Sign in"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "organization_guest_google-one-tap-submit",
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/company/suryasangam",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "session_key",
+                "id": "csm-v2_session_key",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "session_password",
+                "id": "csm-v2_session_password",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://in.linkedin.com/company/suryasangam",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "csm-v2_sign-in-submit",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "controlId",
+                "id": null,
+                "placeholder": null,
+                "value": "d_org_guest_company_overview-csm-v2_sign-in-submit-btn",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "pageInstance",
+                "id": null,
+                "placeholder": null,
+                "value": "urn:li:page:d_org_guest_company_overview_jsbeacon;aCS5mTOpTbiUi/zp2+RzLg==",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "button",
+                "text": "Show"
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Sign in"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/posts/suryasangam_energyindependence-solarcontrol-suryasangam-activity-7371162427771723776-UYtr",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://www.linkedin.com/posts/suryasangam_energyindependence-solarcontrol-suryasangam-activity-7371162427771723776-UYtr",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "public_post_google-one-tap-submit",
+                "required": false
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.linkedin.com/posts/suryasangam_energyindependence-solarcontrol-suryasangam-activity-7371162427771723776-UYtr",
+        "action": "https://www.linkedin.com/uas/login-submit",
+        "method": "POST",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "loginCsrfParam",
+                "id": null,
+                "placeholder": null,
+                "value": "13e054d8-f50b-4019-86d6-be93befd7c99",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "session_key",
+                "id": "csm-v2_session_key",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "password",
+                "name": "session_password",
+                "id": "csm-v2_session_password",
+                "placeholder": null,
+                "value": null,
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "session_redirect",
+                "id": null,
+                "placeholder": null,
+                "value": "https://www.linkedin.com/posts/suryasangam_energyindependence-solarcontrol-suryasangam-activity-7371162427771723776-UYtr",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "trk",
+                "id": null,
+                "placeholder": null,
+                "value": "csm-v2_sign-in-submit",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "controlId",
+                "id": null,
+                "placeholder": null,
+                "value": "d_public_post-csm-v2_sign-in-submit-btn",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "hidden",
+                "name": "pageInstance",
+                "id": null,
+                "placeholder": null,
+                "value": "urn:li:page:d_public_post_jsbeacon;xMREEm7yQcyNkyQsFEzzlQ==",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "button",
+                "text": "Show"
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Sign in"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.suryasangam.com/commercial-solar",
+        "action": "https://www.suryasangam.com/commercial-solar",
+        "method": "GET",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "businessName",
+                "id": "businessName",
+                "placeholder": "Enter your business name",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "contactPerson",
+                "id": "contactPerson",
+                "placeholder": "Your full name",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "email",
+                "name": "email",
+                "id": "email",
+                "placeholder": "business@example.com",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "tel",
+                "name": "phone",
+                "id": "phone",
+                "placeholder": "10-digit phone number",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "businessType",
+                "id": "businessType",
+                "placeholder": "e.g., Manufacturing, Retail, Office",
+                "value": "",
+                "required": false
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "avgElectricityBill",
+                "id": "avgElectricityBill",
+                "placeholder": "e.g., 50000",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "textarea",
+                "name": "address",
+                "id": "address",
+                "placeholder": "Enter your business address",
+                "required": false
+            },
+            {
+                "tag": "textarea",
+                "name": "message",
+                "id": "message",
+                "placeholder": "Tell us about your specific needs or questions",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Request Quote"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.suryasangam.com/contactus",
+        "action": "https://www.suryasangam.com/contactus",
+        "method": "GET",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "name",
+                "id": "name",
+                "placeholder": "Enter your full name",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "email",
+                "name": "email",
+                "id": "email",
+                "placeholder": "your.email@example.com",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "tel",
+                "name": "phone",
+                "id": "phone",
+                "placeholder": "10-digit phone number",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "avgElectricityBill",
+                "id": "avgElectricityBill",
+                "placeholder": "e.g., 5000",
+                "value": "",
+                "required": true
+            },
+            {
+                "tag": "textarea",
+                "name": "address",
+                "id": "address",
+                "placeholder": "Enter your complete address",
+                "required": false
+            },
+            {
+                "tag": "textarea",
+                "name": "message",
+                "id": "message",
+                "placeholder": "Tell us more about your solar energy needs...",
+                "required": false
+            },
+            {
+                "tag": "button",
+                "type": "submit",
+                "text": "Send Message"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.youtube.com/@SuryaSangamofficial",
+        "action": "https://www.youtube.com/results",
+        "method": "GET",
+        "id": null,
+        "name": null,
+        "fields": [
+            {
+                "tag": "input",
+                "type": "text",
+                "name": "search_query",
+                "id": null,
+                "placeholder": null,
+                "value": null,
+                "required": false
+            }
+        ]
+    }
+]

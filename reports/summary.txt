@@ -1,0 +1,22 @@
+
+========================================
+        WEBSITE SCRAPING REPORT
+========================================
+
+Total URLs Found        : 95
+Pages Scraped           : 95
+
+Forms Found             : 25
+
+Images Referenced       : 1300
+Images Downloaded       : 112
+
+Total H1 Tags           : 89
+Total H2 Tags           : 301
+
+Total Paragraphs        : 1978
+
+Average Images/Page     : 13.68
+Average Paragraphs/Page : 20.82
+
+========================================
